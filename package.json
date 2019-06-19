@@ -1,5 +1,5 @@
 {
-  "name": "react-mobile-datepicker",
+  "name": "wind-react-mobile-datepicker",
   "version": "4.0.1",
   "description": "一个移动端时间选择器react组件",
   "main": "./dist/react-mobile-datepicker.js",
