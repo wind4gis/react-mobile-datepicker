@@ -70,8 +70,8 @@ import DatePicker from '../../lib/index';
             max={new Date()}
             theme={this.state.theme}
             isOpen={this.state.isOpen}
-            showCaption={false}
-            showStartAndStop={false}
+            showCaption={true}
+            showStartAndStop={true}
             dateConfig={{
               'year': {
                 format: 'YYYY',
